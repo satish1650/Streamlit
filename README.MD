@@ -2,6 +2,7 @@
 ![Alt Text](images.png)
 
 # Welcome to Streamlit 👋 <br>
+**A faster way to build and share data apps.**
 
 ### What is Streamlit? <br>
 
@@ -18,6 +19,7 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 
 #### Open a terminal and run:
 
+---
 
 ``` 
 $ pip install streamlit 
