@@ -1,4 +1,4 @@
-![alt text](image.png)
+![Alt Text](image.png)
 
 # Welcome to Streamlit 👋 <br>
 
