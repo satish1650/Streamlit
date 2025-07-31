@@ -14,10 +14,12 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 **Open-source and free:** Join a vibrant community and contribute to Streamlit's future.<br>
 
 ### Installation <br>
+
+#### Open a terminal and run:
+
 ```
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+$ pip install streamlit
+$ streamlit hello
 ```
 
 If this opens our sweet Streamlit Hello app in your browser, you're all set! If not, head over to our docs for specific installs. <br>
