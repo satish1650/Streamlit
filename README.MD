@@ -18,6 +18,7 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 If this opens our sweet Streamlit Hello app in your browser, you're all set! If not, head over to our docs for specific installs. <br>
 
