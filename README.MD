@@ -6,6 +6,8 @@
 
 ### What is Streamlit? <br>
 
+***
+
 Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards, generate reports, or create chat apps. Once you’ve created an app, you can use our Community Cloud platform to deploy, manage, and share your app. <br>
 
 ### Why choose Streamlit? <br>
@@ -14,13 +16,13 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 - **Live editing:** See your app update instantly as you edit your script.<br>
 - **Open-source and free:** Join a vibrant community and contribute to Streamlit's future.<br>
 
--
+---
 
 ### Installation <br>
 
 #### Open a terminal and run:
 
-_
+___
 
 ``` 
 $ pip install streamlit 
@@ -28,6 +30,8 @@ $ pip install streamlit
 ```
 $ streamlit hello
 ```
+
+----
 
 <pr>
 If this opens our sweet Streamlit Hello app in your browser, you're all set! If not, head over to our docs for specific installs. <br>
