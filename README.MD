@@ -17,8 +17,8 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 
 #### Open a terminal and run:
 
+``` $ pip install streamlit ```
 ```
-$ pip install streamlit
 $ streamlit hello
 ```
 
