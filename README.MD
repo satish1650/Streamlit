@@ -15,7 +15,8 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 
 ### Installation <br>
 <pre>```$ pip install streamlit```</pre> <br>
-<pre>```$ streamlit hello```</pre> <br>
+<pre>```$ streamlit hello ```</pre> <br>
+<pre> ```bash pip install mypackage ``` </pre>
 
 If this opens our sweet Streamlit Hello app in your browser, you're all set! If not, head over to our docs for specific installs. <br>
 
