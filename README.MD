@@ -14,7 +14,7 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 **Open-source and free:** Join a vibrant community and contribute to Streamlit's future.<br>
 
 ### Installation <br>
-```bash
+```
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
