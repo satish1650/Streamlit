@@ -14,6 +14,8 @@ Streamlit lets you transform Python scripts into interactive web apps in minutes
 **Open-source and free:** Join a vibrant community and contribute to Streamlit's future.<br>
 
 ### Installation <br>
+``` pip install streamlit
+```pip install streamlit
 <pre>```$ pip install streamlit```</pre> <br>
 <pre>```$ streamlit hello ```</pre> <br>
 <pre> ```bash pip install mypackage ``` </pre>
