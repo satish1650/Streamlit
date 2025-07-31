@@ -1,4 +1,5 @@
-![Alt Text](C:\Streamlit\images.png)
+
+![Alt Text](images.png)
 
 # Welcome to Streamlit 👋 <br>
 
