@@ -38,6 +38,16 @@ st.markdown("[streamlit documentation](https://docs.streamlit.io/)")
 
 # Caption
 st.caption("This is caption")
+st.caption("Data updated as of July 2025")
+
+# Example Usage
+st.title("📈 Sales Dashboard")
+st.header("Quarterly Revenue")
+st.subheader("Q2 - 2025")
+
+# Some chart or data here...
+st.caption("Chart generated from internal sales system - Region: APAC")
+
 
 # Code block
 st.code("""
@@ -45,9 +55,36 @@ import pandas as pd
 pd.read_csv(my_csv_file)
 """)
 
+st.code("print('Hello, Streamlit!')", language='python')
+
+st.code("print('Hello, Java!')", language='Java')
+
 # LaTeX
 st.latex("x=2*2")
 st.latex("x=2^2, 4*5, 2^6")
+
+st.latex(r"E = mc^2")
+
+# Examples-1
+
+# Einstein's mass–energy equivalence
+st.latex(r"E = mc^2")
+
+# Quadratic formula
+st.latex(r"x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}")
+
+# Matrix
+st.latex(r"""
+\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}
+""")
+
+# Examples-2
+a = 5
+b = 3
+st.latex(fr"x = {a} + {b}")
 
 # Divider
 st.divider()
@@ -55,6 +92,20 @@ st.text("Text above divider")
 st.divider()
 st.text("Text below divider")
 st.divider()
+
+st.title("📊 Dashboard")
+
+st.header("🔹 Sales Summary")
+st.write("Here are the sales numbers for Q2.")
+
+st.divider()  # Adds a horizontal line
+
+st.header("🔹 Customer Feedback")
+st.write("Here’s what customers are saying.")
+
+st.markdown("---")
+st.write("We are using markdown('---') instead of st.divider()")
+st.markdown("---")
 
 # Write
 st.write("Some text")
