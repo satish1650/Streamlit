@@ -70,4 +70,4 @@ col3.button('🥶 Absolute zero',
             on_click=set_temperatures,
             kwargs=dict(celsius=-273.15, farenheit=-459.67, kelvin=0.00))
 
-# st.write(st.session_state)
+st.write(st.session_state)
